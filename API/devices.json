@@ -73,6 +73,15 @@
             "active": false
         },
         {
+            "codename": "kiev",
+            "codename_alt": "kiev",
+            "vendor": "Motorola",
+            "model": "Motorola moto g 5G",
+            "maintainer_name": "Aryan",
+            "frame": null,
+            "active": true
+        },
+        {
             "codename": "cancunf",
             "codename_alt": "cancunf",
             "vendor": "Motorola",

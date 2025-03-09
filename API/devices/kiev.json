@@ -1,0 +1,18 @@
+{
+    "maintainer": [
+        {
+            "display_name": "Aryan",
+            "telegram": "aryannn999",
+            "github": "basamarayan"
+        }
+    ],
+    "model": "Motorola moto g 5G",
+    "codename": "kiev",
+    "active": true,
+    "version": "fifteen",
+    "release": "monthly",
+    "last_updated": "",
+    "download_link": "https://sourceforge.net/projects/pixelos-releases/files/fifteen/kiev/",
+    "archive": "https://sourceforge.net/projects/pixelos-releases/files/fifteen/kiev/",
+    "xda": null
+}
