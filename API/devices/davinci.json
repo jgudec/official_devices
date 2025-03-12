@@ -7,7 +7,9 @@
         }
     ],
     "model": "Redmi K20/Mi 9T",
-    "codename": "davinci/davinciin",
+    "vendor": "Xiaomi",
+    "codename": "davinci",
+    "codename_alt": "davinci/davinciin",
     "active": true,
     "version": "fifteen",
     "release": "monthly",

@@ -7,7 +7,9 @@
         }
     ],
     "model": "Samsung Galaxy Note10+",
+    "vendor": "Samsung",
     "codename": "d2s",
+    "codename_alt": "d2s",
     "active": false,
     "version": "fourteen",
     "release": "monthly",

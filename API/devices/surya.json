@@ -7,7 +7,9 @@
         }
     ],
     "model": "POCO X3 NFC",
+    "vendor": "Xiaomi",
     "codename": "surya",
+    "codename_alt": "surya/karna",
     "active": true,
     "version": "fifteen",
     "release": "monthly",

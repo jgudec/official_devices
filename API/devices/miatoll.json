@@ -7,7 +7,9 @@
         }
     ],
     "model": "POCO M2 Pro / Redmi Note (9S/Pro/Pro Max/10 Lite)",
+    "vendor": "Xiaomi",
     "codename": "miatoll",
+    "codename_alt": "curtana/joyeuse/excalibur/gram",
     "active": false,
     "version": "fourteen",
     "release": "monthly",

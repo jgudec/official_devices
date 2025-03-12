@@ -7,7 +7,9 @@
         }
     ],
     "model": "Samsung Galaxy F62/M62",
-    "codename": "f62/m62",
+    "vendor": "Samsung",
+    "codename": "f62",
+    "codename_alt": "f62/m62",
     "active": false,
     "version": "fourteen",
     "release": "monthly",

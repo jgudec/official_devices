@@ -7,7 +7,9 @@
         }
     ],
     "model": "Samsung Galaxy Note10",
+    "vendor": "Samsung",
     "codename": "d1",
+    "codename_alt": "d1",
     "active": false,
     "version": "fourteen",
     "release": "monthly",

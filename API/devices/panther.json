@@ -7,7 +7,9 @@
         }
     ],
     "model": "Google Pixel 7",
+    "vendor": "Google",
     "codename": "panther",
+    "codename_alt": "panther",
     "active": false,
     "version": "thirteen",
     "release": "monthly",

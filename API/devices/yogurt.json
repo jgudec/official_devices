@@ -7,7 +7,9 @@
         }
     ],
     "model": "Micromax IN Note 1 / IN1",
+    "vendor": "Micromax",
     "codename": "yogurt",
+    "codename_alt": "yogurt",
     "active": false,
     "version": "thirteen",
     "release": "monthly",

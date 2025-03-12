@@ -7,7 +7,9 @@
         }
     ],
     "model": "Google Pixel 4 XL",
+    "vendor": "Google",
     "codename": "coral",
+    "codename_alt": "coral",
     "active": false,
     "version": "thirteen",
     "release": "monthly",

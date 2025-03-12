@@ -7,7 +7,9 @@
         }
     ],
     "model": "Google Pixel 7 Pro",
+    "vendor": "Google",
     "codename": "cheetah",
+    "codename_alt": "cheetah",
     "active": false,
     "version": "thirteen",
     "release": "monthly",

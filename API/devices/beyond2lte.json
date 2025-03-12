@@ -7,7 +7,9 @@
         }
     ],
     "model": "Samsung Galaxy S10+",
+    "vendor": "Samsung",
     "codename": "beyond2lte",
+    "codename_alt": "beyond2lte",
     "active": false,
     "version": "fourteen",
     "release": "monthly",

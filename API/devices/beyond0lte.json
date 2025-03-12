@@ -7,7 +7,9 @@
         }
     ],
     "model": "Samsung Galaxy S10e",
+    "vendor": "Samsung",
     "codename": "beyond0lte",
+    "codename_alt": "beyond0lte",
     "active": false,
     "version": "fourteen",
     "release": "monthly",

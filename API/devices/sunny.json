@@ -12,7 +12,9 @@
         }
     ],
     "model": "Redmi Note 10",
-    "codename": "sunny/mojito",
+    "vendor": "Xiaomi",
+    "codename": "sunny",
+    "codename_alt": "sunny/mojito",
     "active": true,
     "version": "fifteen",
     "release": "monthly",

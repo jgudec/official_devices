@@ -7,7 +7,9 @@
         }
     ],
     "model": "Redmi K40S/POCO F4",
+    "vendor": "Xiaomi",
     "codename": "munch",
+    "codename_alt": "munch",
     "active": false,
     "version": "fourteen",
     "release": "monthly",

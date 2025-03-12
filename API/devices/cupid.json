@@ -7,7 +7,9 @@
         }
     ],
     "model": "Xiaomi 12",
+    "vendor": "Xiaomi",
     "codename": "cupid",
+    "codename_alt": "cupid",
     "active": true,
     "version": "fifteen",
     "release": "monthly",

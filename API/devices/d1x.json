@@ -7,7 +7,9 @@
         }
     ],
     "model": "Samsung Galaxy Note10 5G",
+    "vendor": "Samsung",
     "codename": "d1x",
+    "codename_alt": "d1x",
     "active": false,
     "version": "fourteen",
     "release": "monthly",

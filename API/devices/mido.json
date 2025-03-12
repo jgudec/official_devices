@@ -7,7 +7,9 @@
         }
     ],
     "model": "Redmi Note 4/4x",
+    "vendor": "Xiaomi",
     "codename": "mido",
+    "codename_alt": "mido",
     "active": false,
     "version": "fourteen",
     "release": "monthly",

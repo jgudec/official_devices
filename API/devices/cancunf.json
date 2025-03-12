@@ -12,7 +12,9 @@
         }
     ],
     "model": "Motorola moto g54 5G",
+    "vendor": "Motorola",
     "codename": "cancunf",
+    "codename_alt": "cancunf",
     "active": true,
     "version": "fifteen",
     "release": "monthly",

@@ -7,7 +7,9 @@
         }
     ],
     "model": "Xiaomi Mi Note 10 Lite",
+    "vendor": "Xiaomi",
     "codename": "toco",
+    "codename_alt": "toco",
     "active": false,
     "version": "fourteen",
     "release": "monthly",

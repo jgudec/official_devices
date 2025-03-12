@@ -7,7 +7,9 @@
         }
     ],
     "model": "OnePlus Nord CE 2 Lite",
+    "vendor": "OnePlus",
     "codename": "oscar",
+    "codename_alt": "oscar",
     "active": true,
     "version": "fifteen",
     "release": "monthly",

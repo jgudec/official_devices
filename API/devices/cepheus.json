@@ -7,7 +7,9 @@
         }
     ],
     "model": "Xiaomi Mi 9",
+    "vendor": "Xiaomi",
     "codename": "cepheus",
+    "codename_alt": "cepheus",
     "active": true,
     "version": "fifteen",
     "release": "monthly",

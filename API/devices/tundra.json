@@ -7,7 +7,9 @@
         }
     ],
     "model": "Motorola Edge (30 Fusion/S30 Pro)",
+    "vendor": "Motorola",
     "codename": "tundra",
+    "codename_alt": "tundra",
     "active": false,
     "version": "fourteen",
     "release": "monthly",

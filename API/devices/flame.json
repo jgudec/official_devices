@@ -7,7 +7,9 @@
         }
     ],
     "model": "Google Pixel 4",
+    "vendor": "Google",
     "codename": "flame",
+    "codename_alt": "flame",
     "active": false,
     "version": "thirteen",
     "release": "monthly",

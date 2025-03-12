@@ -7,7 +7,9 @@
         }
     ],
     "model": "Xiaomi Mi 9 SE",
+    "vendor": "Xiaomi",
     "codename": "grus",
+    "codename_alt": "grus",
     "active": false,
     "version": "fourteen",
     "release": "monthly",

@@ -7,7 +7,9 @@
         }
     ],
     "model": "Realme 8i/Realme Narzo 50",
-    "codename": "spaced,RMX3151,RMX3286",
+    "vendor": "Realme",
+    "codename": "spaced",
+    "codename_alt": "spaced",
     "active": false,
     "version": "thirteen",
     "release": "monthly",

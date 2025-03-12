@@ -7,7 +7,9 @@
         }
     ],
     "model": "Realme GT 2",
+    "vendor": "Realme",
     "codename": "porsche",
+    "codename_alt": "porsche",
     "active": true,
     "version": "fifteen",
     "release": "monthly",

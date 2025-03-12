@@ -7,7 +7,9 @@
         }
     ],
     "model": "Poco F5/Redmi Note 12 Turbo",
+    "vendor": "Xiaomi",
     "codename": "marble",
+    "codename_alt": "marble/marblein",
     "active": false,
     "version": "fourteen",
     "release": "monthly",

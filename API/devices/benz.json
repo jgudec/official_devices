@@ -7,7 +7,9 @@
         }
     ],
     "model": "OnePlus Nord CE 4",
+    "vendor": "OnePlus",
     "codename": "benz",
+    "codename_alt": "benz",
     "active": true,
     "version": "fifteen",
     "release": "monthly",

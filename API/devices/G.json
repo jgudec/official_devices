@@ -7,7 +7,9 @@
         }
     ],
     "model": "10.or G",
+    "vendor": "10or",
     "codename": "G",
+    "codename_alt": "G",
     "active": false,
     "version": "fourteen",
     "release": "monthly",

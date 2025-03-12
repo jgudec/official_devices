@@ -7,7 +7,9 @@
         }
     ],
     "model": "realme GT Master",
+    "vendor": "Realme",
     "codename": "lunaa",
+    "codename_alt": "lunaa",
     "active": true,
     "version": "fifteen",
     "release": "monthly",

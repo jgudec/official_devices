@@ -7,7 +7,9 @@
         }
     ],
     "model": "Samsung Galaxy S9+",
+    "vendor": "Samsung",
     "codename": "star2lte",
+    "codename_alt": "star2lte",
     "active": false,
     "version": "twelve",
     "release": "monthly",

@@ -7,7 +7,9 @@
         }
     ],
     "model": "Redmi 9T / 9 Power / 9T NFC",
+    "vendor": "Xiaomi",
     "codename": "lime",
+    "codename_alt": "lime/pomelo/lemon",
     "active": false,
     "version": "thirteen",
     "release": "monthly",

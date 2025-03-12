@@ -7,7 +7,9 @@
         }
     ],
     "model": "Moto G9/Play",
+    "vendor": "Motorola",
     "codename": "guamp",
+    "codename_alt": "guamp",
     "active": false,
     "version": "fourteen",
     "release": "monthly",

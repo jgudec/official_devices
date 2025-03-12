@@ -7,7 +7,9 @@
         }
     ],
     "model": "Realme C3/Realme Narzo 10A",
-    "codename": "RMX2020/RMX2027",
+    "vendor": "Realme",
+    "codename": "RMX2020",
+    "codename_alt": "RMX2020",
     "active": true,
     "version": "fifteen",
     "release": "monthly",

@@ -7,7 +7,9 @@
         }
     ],
     "model": "Samsung Galaxy S10 5G",
+    "vendor": "Samsung",
     "codename": "beyondx",
+    "codename_alt": "beyondx",
     "active": false,
     "version": "fourteen",
     "release": "monthly",

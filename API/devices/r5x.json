@@ -7,7 +7,9 @@
         }
     ],
     "model": "realme 5/5i/5s",
+    "vendor": "Realme",
     "codename": "r5x",
+    "codename_alt": "r5x",
     "active": false,
     "version": "fourteen",
     "release": "monthly",

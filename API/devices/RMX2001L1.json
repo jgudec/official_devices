@@ -7,7 +7,9 @@
         }
     ],
     "model": "realme 6/6i(Indian)/6s/Narzo",
+    "vendor": "Realme",
     "codename": "RMX2001L1",
+    "codename_alt": "nemo",
     "active": true,
     "version": "fifteen",
     "release": "monthly",

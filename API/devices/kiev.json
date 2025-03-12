@@ -7,7 +7,9 @@
         }
     ],
     "model": "Motorola moto g 5G",
+    "vendor": "Motorola",
     "codename": "kiev",
+    "codename_alt": "kiev",
     "active": true,
     "version": "fifteen",
     "release": "monthly",

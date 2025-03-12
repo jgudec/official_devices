@@ -7,7 +7,9 @@
         }
     ],
     "model": "Realme 7/Narzo 20 Pro/Narzo 30 4G",
+    "vendor": "Realme",
     "codename": "salaa",
+    "codename_alt": "salaa",
     "active": true,
     "version": "fifteen",
     "release": "monthly",

@@ -7,7 +7,9 @@
         }
     ],
     "model": "OnePlus 7T Pro 5G McLaren Edition",
+    "vendor": "OnePlus",
     "codename": "hotdogg",
+    "codename_alt": "OnePlus7TProNR",
     "active": false,
     "version": "twelve",
     "release": "monthly",

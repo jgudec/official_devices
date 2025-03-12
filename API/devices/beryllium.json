@@ -7,7 +7,9 @@
         }
     ],
     "model": "Pocophone F1",
+    "vendor": "Xiaomi",
     "codename": "beryllium",
+    "codename_alt": "beryllium",
     "active": false,
     "version": "fifteen",
     "release": "monthly",

@@ -7,7 +7,9 @@
         }
     ],
     "model": "OnePlus 12R/ACE 3 5G",
+    "vendor": "OnePlus",
     "codename": "aston",
+    "codename_alt": "aston",
     "active": true,
     "version": "fifteen",
     "release": "monthly",

@@ -7,7 +7,9 @@
         }
     ],
     "model": "Realme GT Neo 2",
+    "vendor": "Realme",
     "codename": "bitra",
+    "codename_alt": "bitra",
     "active": false,
     "version": "fourteen",
     "release": "monthly",

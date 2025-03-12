@@ -7,7 +7,9 @@
         }
     ],
     "model": "OnePlus 7T Pro",
+    "vendor": "OnePlus",
     "codename": "hotdog",
+    "codename_alt": "OnePlus7TPro",
     "active": false,
     "version": "twelve",
     "release": "monthly",

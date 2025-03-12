@@ -7,7 +7,9 @@
         }
     ],
     "model": "Redmi Note 7 Pro",
+    "vendor": "Xiaomi",
     "codename": "violet",
+    "codename_alt": "violet",
     "active": false,
     "version": "thirteen",
     "release": "monthly",

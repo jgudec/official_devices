@@ -7,7 +7,9 @@
         }
     ],
     "model": "OnePlus 9RT 5G",
+    "vendor": "OnePlus",
     "codename": "martini",
+    "codename_alt": "martini",
     "active": false,
     "version": "fourteen",
     "release": "monthly",

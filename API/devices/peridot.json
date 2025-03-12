@@ -7,7 +7,9 @@
         }
     ],
     "model": "POCO F6",
+    "vendor": "Xiaomi",
     "codename": "peridot",
+    "codename_alt": "peridot",
     "active": true,
     "version": "fifteen",
     "release": "monthly",

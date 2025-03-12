@@ -7,7 +7,9 @@
         }
     ],
     "model": "Redmi Note 10 Pro/Max",
-    "codename": "sweet/sweetin",
+    "vendor": "Xiaomi",
+    "codename": "sweet",
+    "codename_alt": "sweet/sweetin",
     "active": true,
     "version": "fifteen",
     "release": "monthly",

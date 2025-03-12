@@ -7,7 +7,9 @@
         }
     ],
     "model": "Xiaomi MI 10T",
+    "vendor": "Xiaomi",
     "codename": "apollo",
+    "codename_alt": "apollopro",
     "active": true,
     "version": "fifteen",
     "release": "monthly",

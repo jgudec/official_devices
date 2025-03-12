@@ -7,7 +7,9 @@
         }
     ],
     "model": "Poco F3/Mi 11X/Redmi K40",
+    "vendor": "Xiaomi",
     "codename": "alioth",
+    "codename_alt": "alioth/aliothin",
     "active": true,
     "version": "fifteen",
     "release": "monthly",

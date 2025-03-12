@@ -7,7 +7,9 @@
         }
     ],
     "model": "Xiaomi 12T Pro / Redmi K50 Ultra",
+    "vendor": "Xiaomi",
     "codename": "diting",
+    "codename_alt": "diting",
     "active": false,
     "version": "fourteen",
     "release": "monthly",

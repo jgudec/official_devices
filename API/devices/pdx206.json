@@ -7,7 +7,9 @@
         }
     ],
     "model": "Sony Xperia 5 II",
+    "vendor": "Sony",
     "codename": "pdx206",
+    "codename_alt": "pdx206",
     "active": false,
     "version": "fourteen",
     "release": "monthly",

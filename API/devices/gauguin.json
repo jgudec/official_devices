@@ -7,7 +7,9 @@
         }
     ],
     "model": "Redmi Note 9 Pro 5G/ Mi 10i 5G/ Mi 10T Lite 5G",
+    "vendor": "Xiaomi",
     "codename": "gauguin",
+    "codename_alt": "gauguin",
     "active": true,
     "version": "fifteen",
     "release": "monthly",

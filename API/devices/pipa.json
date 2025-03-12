@@ -7,7 +7,9 @@
         }
     ],
     "model": "Xiaomi Pad 6",
+    "vendor": "Xiaomi",
     "codename": "pipa",
+    "codename_alt": "pipa",
     "active": true,
     "version": "fifteen",
     "release": "monthly",

@@ -7,7 +7,9 @@
         }
     ],
     "model": "POCO X3 Pro",
-    "codename": "vayu/bhima",
+    "vendor": "Xiaomi",
+    "codename": "vayu",
+    "codename_alt": "vayu/bhima",
     "active": false,
     "version": "fourteen",
     "release": "monthly",
