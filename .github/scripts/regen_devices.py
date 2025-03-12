@@ -22,6 +22,8 @@ for device in os.listdir("API/devices"):
 
     device_list.append(device_entry)
 
+# sort the device list based on codenames
+device_list.sort(key=lambda x: x["codename"])
 
 devices_json = {"devices": device_list}
 
