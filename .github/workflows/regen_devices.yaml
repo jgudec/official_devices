@@ -1,0 +1,23 @@
+name: Update devices json
+
+on: push
+
+jobs:
+  clone:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Regen devices json
+        run: python3 .github/scripts/regen_devices.py
+
+      - name: Commit to repo
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_user_name: PixelOS-Bot
+          commit_user_email: auto-bot@pixelos.net
+          commit_author: PixelOS-Bot <auto-bot@pixelos.net>
+          commit_message: "[CI] Regen devices.json"
+          file_pattern: "API/devices.json"
