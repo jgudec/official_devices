@@ -1,3 +1,6 @@
+# 13-Mar-2025
+- Fixed mic issues on voip calls
+
 # 07-Mar-2025
 - Update blobs from Android 15 
 RMX3660_15.0.0.510(EX01)
