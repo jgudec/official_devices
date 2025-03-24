@@ -101,7 +101,7 @@
             "github": "kardebayan",
             "telegram": "kardebayan",
             "XDA": "https://xdaforums.com/m/kardebayan3.9878693/",
-            "role": "G, RMX2001L1, surya and salaa maintainer",
+            "role": "RMX2001L1, surya and salaa maintainer",
             "tagline": null
         },
         {
@@ -111,22 +111,6 @@
             "XDA": "https://xdaforums.com/m/cyberknight777.11696787/",
             "role": "cancunf and sunny Maintainer",
             "tagline": "You gotta do what you gotta do \u4e41(\u30c4)\u310f"
-        },
-        {
-            "name": "clhex",
-            "github": "clhexftw",
-            "telegram": "hexcl",
-            "XDA": "https://xdaforums.com/m/clhexftw.12071893/",
-            "role": "vayu/bhima Maintainer",
-            "tagline": null
-        },
-        {
-            "name": "Dennis Murimi",
-            "github": "AndroidHQ254",
-            "telegram": "DennisMurimiWachira",
-            "XDA": "https://xdaforums.com/m/androidhq254.5437788/",
-            "role": "toco Maintainer",
-            "tagline": "Flexing toco!"
         },
         {
             "name": "balgxmr",
@@ -141,7 +125,7 @@
             "github": "NotZeetaa",
             "telegram": "NotZeetaa",
             "XDA": "https://xdaforums.com/m/zeetaa.10325641/",
-            "role": "Alioth Maintainer",
+            "role": "alioth Maintainer",
             "tagline": "I love cats and dogs!"
         },
         {
@@ -157,16 +141,8 @@
             "github": "raghavt20",
             "telegram": "raghavt20",
             "XDA": "https://xdaforums.com/m/raghavt20.11102031/",
-            "role": "Tundra and Peridot Maintainer",
+            "role": "peridot Maintainer",
             "tagline": ";-;"
-        },
-        {
-            "name": "Aditya",
-            "github": "Ad1tyaS1ngh",
-            "telegram": "Ad1tyaS1ngh",
-            "XDA": "https://xdaforums.com/m/ad1tyas1ngh.11053817/",
-            "role": "marble Maintainer",
-            "tagline": "."
         },
         {
             "name": "Muhammad Nauman",
@@ -181,7 +157,7 @@
             "github": "rk134",
             "telegram": "rahul_k06",
             "XDA": "https://xdaforums.com/m/rk134.9436905/",
-            "role": "Xiaomi 12 (cupid) Maintainer",
+            "role": "cupid Maintainer",
             "tagline": "Crazy? I was crazy once. They put me in a room. A rubber room."
         },
         {
@@ -189,7 +165,7 @@
             "github": "Rasenkai",
             "telegram": "ThomasDada",
             "XDA": "https://xdaforums.com/m/rasenkai99.9138028/",
-            "role": "Xiaomi 12 Pro (zeus) Maintainer",
+            "role": "zeus Maintainer",
             "tagline": "VirusTotal.com"
         },
         {
@@ -205,7 +181,7 @@
             "github": "ahmedtohamy1",
             "telegram": "ahmed_tohamy",
             "XDA": "https://xdaforums.com/m/ahmed-tohamy.8386267/",
-            "role": "Xiaomi MI 10T (apollo) Maintainer",
+            "role": "apollo Maintainer",
             "tagline": "Pharoh"
         },
         {
@@ -213,7 +189,7 @@
             "github": "inferno0230",
             "telegram": "inferno0230",
             "XDA": "https://xdaforums.com/m/inferno0230.12118995/",
-            "role": "OnePlus 12R/ACE 3 5G (aston) and OnePlus Nord CE 4 (benz) Maintainer",
+            "role": "aston and benz Maintainer",
             "tagline": "Ganyu Shrimp"
         }
     ]
