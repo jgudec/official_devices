@@ -1,3 +1,3 @@
-\- Fixed an issue where in-call voice breaks when notification arrives  
+\- Switch to audio HAL v7  
 
 Learn more at [blog.pixelos.net](https://blog.pixelos.net/)

@@ -1,3 +1,6 @@
+# 01-Apr-2025
+- Switch to audio HAL v7
+
 # 18-Feb-2025
 - Fixed an issue where in-call voice breaks when notification arrives
 
