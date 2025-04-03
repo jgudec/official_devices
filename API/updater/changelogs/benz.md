@@ -1,3 +1,7 @@
-\- Initial official release  
+\- Source upstream  
+\- Update kernel drivers from CPH2585_15.0.0.600(EX01)  
+\- Merged latest CLO tag for kernel and kernel modules  
+\- Fixed screen off udfps  
+\- Fixed touchpad being detected as gamepad  
 
 Learn more at [blog.pixelos.net](https://blog.pixelos.net/)
