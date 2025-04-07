@@ -1,3 +1,24 @@
+# 31-Mar-2025
+
+- Merged latest security patches from android-15.0.0_r19
+- Updated themed icons from AOSPA
+- Fixed flashlight tile colors on devices which do not support strength control
+- Various under-the-hood improvements and optimizations
+
+# 17-Feb-2025
+
+- Merged latest security patches from android-15.0.0_r17
+- CertifiedPropsOverlay can now be updated using the built-in updater app
+- Themed icons have been updated
+- Fixed an issue where the updater would mistakenly download official updates from Google servers
+- Back tap gesture has been added for supported devices
+- Fixed an issue where the volume panel would float on devices with left-sided volume buttons
+- Per-app volume control is now supported
+- Users can now disable prop imitation via a prop
+- Added a Quick Settings tile for adjusting flashlight brightness on supported devices
+- Added a toggle to secure Quick Settings tiles on the lock screen when the device is locked
+- Various under-the-hood improvements and optimizations
+
 # 17-Jan-2025
 
 - Stable release
