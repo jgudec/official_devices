@@ -1,3 +1,6 @@
+# 23-Apr-2025
+- Updated blobs and firmware from CPH2613_15.0.0.801(EX01)
+
 # 03-Apr-2025
 - Source upstream
 - Update kernel drivers from CPH2585_15.0.0.600(EX01)
