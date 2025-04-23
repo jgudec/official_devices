@@ -1,3 +1,8 @@
+# 23-Apr-2025
+- Cleanup unrequired and duplicate USB related changes in init.target.rc
+- Setup eSE and non-eSE variants properly as seen in stock
+- Fix init scripts file permissions
+
 # 01-Apr-2025
 - Switch to audio HAL v7
 
