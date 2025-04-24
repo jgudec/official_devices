@@ -1,11 +1,11 @@
 {
     "response": [
         {
-            "datetime": "1740577682",
-            "filename": "PixelOS_zeus-15.0-20250226-1349.zip",
-            "id": "ce14b1322fb8858871accbc025d7276f8e3e071bc089131bd815e392e17944f4",
-            "size": 2528934712,
-            "url": "https://sourceforge.net/projects/pixelos-releases/files/fifteen/zeus/PixelOS_zeus-15.0-20250226-1349.zip",
+            "datetime": "1745466448",
+            "filename": "PixelOS_zeus-15.0-20250424-0348.zip",
+            "id": "a671ae72183c826530f022b8444e2ec4c362b9c2ecdd7005e5635297b420daf2",
+            "size": 2600599688,
+            "url": "https://sourceforge.net/projects/pixelos-releases/files/fifteen/zeus/PixelOS_zeus-15.0-20250424-0348.zip",
             "version": "15"
         }
     ]
