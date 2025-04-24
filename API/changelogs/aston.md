@@ -1,3 +1,6 @@
+# 24-Apr-2025
+- Fixed very low brightness at lockscreen caused by udfps dimming
+
 # 23-Apr-2025
 - Source upstream
 
