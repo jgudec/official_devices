@@ -1,3 +1,8 @@
+# 25-Apr-2025
+- Switched to Lineage Kernel
+- Decreased app launch time
+- Dropped Dolby
+
 # 28-Feb-2025
 - Update blobs from munch OS1.0.8.0.ULMMIXM
 - Fixed DeviceAsWebCam
