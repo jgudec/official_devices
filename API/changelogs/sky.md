@@ -1,3 +1,6 @@
+# 01-May-2025
+- Remove redundant display board flags
+
 # 01-Apr-2025
 - Update blobs to OS2.0.5.0.VMWEUXM
 - Update display, GPS and QCC blobs to ingot UKQ1.240227.165
