@@ -1,5 +1,6 @@
-\- Cleanup unrequired and duplicate USB related changes in init.target.rc  
-\- Setup eSE and non-eSE variants properly as seen in stock  
-\- Fix init scripts file permissions  
+\- Fix reboot issues caused due to upstream clang  
+\- Fix QoS CPU DMA latency in powerhint  
+\- Switch to NCM USB tethering  
+\- Disable HID RAW support  
 
 Learn more at [blog.pixelos.net](https://blog.pixelos.net/)

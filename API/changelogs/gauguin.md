@@ -1,3 +1,9 @@
+# 06-May-2025
+- Fix reboot issues caused due to upstream clang
+- Fix QoS CPU DMA latency in powerhint
+- Switch to NCM USB tethering
+- Disable HID RAW support
+
 # 23-Apr-2025
 - Cleanup unrequired and duplicate USB related changes in init.target.rc
 - Setup eSE and non-eSE variants properly as seen in stock
