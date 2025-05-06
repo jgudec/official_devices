@@ -1,3 +1,6 @@
+# 06-May-2025
+- Updated blobs from CPH2585_15.0.0.801(EX01)
+
 # 24-Apr-2025
 - Fixed very low brightness at lockscreen caused by udfps dimming
 
