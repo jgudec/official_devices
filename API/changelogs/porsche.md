@@ -1,3 +1,6 @@
+# 07-May-2025
+- Source upstream
+
 # 03-Apr-2025
 - Fixed distorted noise at high volumes on speaker
 - Fixed audio delay in earphones
