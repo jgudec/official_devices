@@ -1,3 +1,8 @@
+# 16-May-2025
+- Switch to EROFS
+- Switch to Dolby C2
+- Fix apple music not detecting Dolby Atmos support
+
 # 23-Apr-2025
 - Updated blobs and firmware from CPH2613_15.0.0.801(EX01)
 

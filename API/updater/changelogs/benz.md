@@ -1,3 +1,5 @@
-\- Updated blobs and firmware from CPH2613_15.0.0.801(EX01)  
+\- Switch to EROFS  
+\- Switch to Dolby C2  
+\- Fix apple music not detecting Dolby Atmos support  
 
 Learn more at [blog.pixelos.net](https://blog.pixelos.net/)
