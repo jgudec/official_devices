@@ -1,3 +1,9 @@
+# 16-May-2025
+- Switch to EROFS
+- Switch to pixelworks for colour modes
+- Switch to Dolby C2
+- Fix apple music not detecting Dolby Atmos support
+
 # 06-May-2025
 - Updated blobs from CPH2585_15.0.0.801(EX01)
 
