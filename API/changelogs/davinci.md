@@ -1,3 +1,7 @@
+# 17-May-2025
+- Enabled DeviceAsWebcam
+- Run hvdcp_opti in recovery mode
+
 # 05-May-2025
 - Update common proprietary blobs from sweet_k6a OS1.0.15.0.THGMIXM
 - Import RIL stack from mojito V14.0.8.0 SKGMIXM
