@@ -1,3 +1,9 @@
+# 16-May-2025
+- Merged latest security patches from `android-15.0.0_r32`
+
+# 23-Apr-2025
+- Merged latest security patches from `android-15.0.0_r30`
+
 # 31-Mar-2025
 
 - Merged latest security patches from android-15.0.0_r19
