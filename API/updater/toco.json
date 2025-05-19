@@ -1,23 +1,12 @@
 {
-    "error": false,
-    "version": "fourteen",
-    "filename": "PixelOS_toco-14.0-20241026-1004.zip",
-    "datetime": 1729936952,
-    "ota_datetime": "TIMESTAMP_PLACEHOLDER",
-    "size": 2354458703,
-    "url": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/toco/PixelOS_toco-14.0-20241026-1004.zip",
-    "github_releases_url": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/toco/PixelOS_toco-14.0-20241026-1004.zip",
-    "filehash": "16d21903a05a41cdf455bc920bb5d6c0",
-    "id": "16d21903a05a41cdf455bc920bb5d6c0",
-    "maintainers": [
+    "response": [
         {
-            "main_maintainer": false,
-            "github_username": "AndroidHQ254",
-            "name": "Dennis Murimi"
+            "datetime": "1747604584",
+            "filename": "PixelOS_toco-15.0-20250518-2144.zip",
+            "id": "ecc7f40207f1332a6362cefc247719233cd309e0bc39ab9aa3be94f2efed5e84",
+            "size": 2583158827,
+            "url": "https://sourceforge.net/projects/pixelos-releases/files/fifteen/toco/PixelOS_toco-15.0-20250518-2144.zip",
+            "version": "15"
         }
-    ],
-    "donate_url": "https://blog.pixelos.net/docs/donate",
-    "website_url": "https://pixelos.net/",
-    "news_url": "https://blog.pixelos.net/",
-    "forum_url": "https://xdaforums.com/t/rom-14-official-pixelos-aosp-stable.4652595/"
+    ]
 }
