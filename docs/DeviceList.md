@@ -20,6 +20,7 @@ Officially Supported Devices:
 3. OnePlus Nord CE 2 Lite (oscar)
 4. OnePlus Nord CE 4 5G (benz)
 5. OnePlus Pad 2 (caihong)
+6. Oneplus 13R (giulia)
 
 **Realme**
 1. Realme 7/Narzo 20 Pro/Narzo 30 4G (salaa)
