@@ -1,12 +1,13 @@
 {
     "response": [
-        {
-            "datetime": "1850496811",
-            "filename": "PixelOS_giulia-15.0-20250520-1850.zip",
-            "id": "679931d8a941212d73ce830538bc02213bf6539113dd6d1a9beb758cba3zad01",
-            "size": 3202760366,
-            "url": "https://sourceforge.net/projects/pixelos-giulia-builds/files/PixelOS_giulia-15.0-20250520-1850.zip",
-            "version": "15"
-        }
+      {
+        "datetime": 1747776180,
+        "filename": "PixelOS_giulia-15.0-20250520-1923.zip",
+        "id": "046f44253e41eef93f36da4fe647bc7e7c807826723be869c926c0a10ee966ef",
+        "size": 3202761329,
+        "url": "https://sourceforge.net/projects/pixelos-giulia-builds/files/PixelOS_giulia-15.0-20250520-1923.zip",
+        "version": "15"
+      }
     ]
-}
+  }
+  

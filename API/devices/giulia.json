@@ -1,10 +1,10 @@
 {
     "maintainer": [
-        {
-            "display_name": "Jeik",
-            "telegram": "@JeikIzTaken",
-            "github": "jgudec"
-        }
+      {
+        "display_name": "Jeik",
+        "telegram": "@JeikIzTaken",
+        "github": "jgudec"
+      }
     ],
     "model": "Oneplus 13R",
     "vendor": "OnePlus",
@@ -14,7 +14,8 @@
     "version": "fifteen",
     "release": "monthly",
     "last_updated": "20 May 2025",
-    "download_link": "https://sourceforge.net/projects/pixelos-giulia-builds/files/PixelOS_giulia-15.0-20250520-1229.zip",
+    "download_link": "https://sourceforge.net/projects/pixelos-giulia-builds/files/PixelOS_giulia-15.0-20250520-1923.zip",
     "archive": "https://sourceforge.net/projects/pixelos-giulia-builds/files/",
     "xda": "https://xdaforums.com/t/unofficial-15-pixelos-for-oneplus-13r-ace-5.4737323/"
-}
+  }
+  
