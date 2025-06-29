@@ -1,11 +1,11 @@
 {
   "response": [
     {
-      "datetime": 1748593980,
-      "filename": "PixelOS_giulia-15.0-20250530-0833.zip",
-      "id": "7170f3426f27b0de7d40e3e05f575371dce7f7718b653148a06d739562e4d25d",
-      "size": 3206618158,
-      "url": "https://sourceforge.net/projects/pixelos-giulia-builds/files/PixelOS_giulia-15.0-20250530-0833.zip",
+      "datetime": 1751192160,
+      "filename": "PixelOS_giulia-15.0-20250629-1016.zip",
+      "id": "534e48efc1900131917d79482768770d5189cca02d18194f12c67118787c9fd8",
+      "size": 3318459291,
+      "url": "https://sourceforge.net/projects/pixelos-giulia-builds/files/OTA/PixelOS_giulia-15.0-20250629-1016.zip",
       "version": "15"
     }
   ]
