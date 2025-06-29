@@ -1,4 +1,4 @@
-# 29-Jun-2025Add commentMore actions
+# 29-Jun-2025
 - Added full support for Ace 5
 - Fixed HDR
 - Fixed rounder corners
